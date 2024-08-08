@@ -1,1 +1,1 @@
-Este repositório contém a reprodução do desafio de projeto "Padrões de Projeto usando Java Puro" oferecido pela [DIO](https://www.dio.me), com aulas ministradas pelo [Veniton FalvoJr](https://github.com/falvojr).
+Este repositório contém a reprodução do desafio de projeto "Padrões de Projeto usando Java Puro" oferecido pela [DIO](https://www.dio.me), com aulas ministradas pelo [Venilton FalvoJr](https://github.com/falvojr).
